@@ -4,7 +4,7 @@ title: "Creating and editing a library"
 order: 1
 ---
 
-There are two ways to create a private library:
+There are two ways to create an ADS library:
 
   1. Do a [search on ADS bumblebee](https://ui.adsabs.harvard.edu/#search/q=star), select your relevant papers, and select the **Add papers to library** button. Fill in a library name and press submit.
   2. Go the **My Account** drop down and select **ADS Libraries**. Press the **Create a library** button.
